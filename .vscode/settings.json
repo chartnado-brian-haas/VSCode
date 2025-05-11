@@ -3,7 +3,7 @@
 	"files.trimTrailingWhitespace": true,
 	"files.exclude": {
 		".git": true,
-		".build": true,
+		// ".build": true,
 		".profile-oss": true,
 		"**/.DS_Store": true,
 		".vscode-test": true,
